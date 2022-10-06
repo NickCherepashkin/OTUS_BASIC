@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">FilmsProject</string>
+    <string name="title_mobius">Мобиус</string>
+    <string name="text_button_detail">Детали</string>
 </resources>
